@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["PLAYING","MUSIC"];
+const statusMessages = ["Watching Over CyclesMC","JOIN play.cyclesmc.com];
 
 
 let currentIndex = 0;
