@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Watching Over CyclesMC","JOIN play.cyclesmc.com"];
+const statusMessages = ["Managing Tickets"];
 
 
 let currentIndex = 0;
